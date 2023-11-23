@@ -47,9 +47,9 @@
 </p>
 
 
-## What is Komodo Wallet?
+## What is KiiroDEX?
 
-Komodo Wallet is a secure wallet and non-custodial decentralized exchange rolled into one application. Store your coins,
+KiiroDEX is a secure wallet and non-custodial decentralized exchange rolled into one application. Store your coins,
 trade peer-to-peer with minimal fees and never give up control over your digital assets.
 
 Komodo Wallet has been tested on the following platforms:
@@ -61,8 +61,8 @@ Komodo Wallet has been tested on the following platforms:
 
 ## Get Started
 
-You can [download](https://github.com/KomodoPlatform/komodo-wallet-desktop/releases) the pre-built <b>beta</b> binaries on
-our [GitHub release page](https://github.com/KomodoPlatform/komodo-wallet-desktop/releases).
+You can [download](https://github.com/kiirocoin/KiiroDEX-Desktop/releases) the pre-built <b>beta</b> binaries on
+our [GitHub release page](https://github.com/kiirocoin/KiiroDEX-Desktop/releases).
 
 Build instructions can be found [here](https://github.com/KomodoPlatform/komodo-wallet-desktop/wiki/Build-Instructions)
 

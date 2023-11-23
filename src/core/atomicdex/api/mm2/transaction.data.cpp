@@ -102,7 +102,7 @@ namespace atomic_dex::mm2
 
         if (cfg.from.empty())
         {
-            if (cfg.coin == "FIRO")
+            if (cfg.coin == "FIRO" || cfg.coin == "KIIRO")
             {
                 cfg.from.emplace_back("Lelantusjsplit (Hidden)");
             }

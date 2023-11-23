@@ -11,8 +11,14 @@ namespace atomic_dex
         g_primary_dex_coin,
         g_second_primary_dex_coin,
         "BTC-segwit",
-        "LTC-segwit",
-        "DGB-segwit",
+        "BNB",
+        "ETH",
+        "DAI-BEP20",
+        "FIRO-BEP20",
+        "KIIRO-BEP20",
+        "BUSD-BEP20",
+        "USDC-BEP20",
+        "USDT-BEP20"
     };
     inline const std::vector<std::string> g_faucet_coins{
         "DOC",

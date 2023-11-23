@@ -1,5 +1,5 @@
 {
-  "name": "komodo-wallet",
+  "name": "kiirodex-desktop",
   "version-string": "0.6.1",
   "dependencies": [
     "entt",
