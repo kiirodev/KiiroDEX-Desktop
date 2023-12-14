@@ -5,7 +5,7 @@
     "secondBackgroundColor": "#ECECECFF",
     "backgroundColorDeep": "#F9F5F5FF",
 
-    "busyIndicatorColor": "#CB1C2EAF",
+    "busyIndicatorColor": "#F7931DAF",
 
     "buttonColorDisabled": "#D8E3F8",
     "buttonColorEnabled": "#F0F6F9",
@@ -26,14 +26,14 @@
     "buttonCancelColorHovered":  "#CDE1FFFF",
     "buttonCancelColorPressed":  "#B8D2F9FF",
  
-    "gradientButtonStartColor": "#9B1C2EFF",
-    "gradientButtonEndColor": "#EE5C78FF",
-    "gradientButtonDisabledStartColor": "#9B1C2E4D",
-    "gradientButtonDisabledEndColor": "#EE5C7834",
-    "gradientButtonHoveredStartColor": "#CB1C2EAF",
-    "gradientButtonHoveredEndColor": "#CB1C2EAF",
-    "gradientButtonPressedStartColor": "#EB1C2EAF",
-    "gradientButtonPressedEndColor": "#EB1C2EAF",
+    "gradientButtonStartColor": "#FAAF40FF",
+    "gradientButtonEndColor": "#FFC56FFF",
+    "gradientButtonDisabledStartColor": "#FAAF40FF",
+    "gradientButtonDisabledEndColor": "#865D1E34",
+    "gradientButtonHoveredStartColor": "#FCB040AF",
+    "gradientButtonHoveredEndColor": "#FCB040AF",
+    "gradientButtonPressedStartColor": "#F7931DAF",
+    "gradientButtonPressedEndColor": "#F7931DAF",
     "gradientButtonTextEnabledColor": "#EEF5FF",
     "gradientButtonTextDisabledColor": "#EEF5FF",
     "gradientButtonTextHoveredColor": "#EEF5FF",
@@ -43,29 +43,29 @@
     "checkBoxGradientStartColor": "#8892EBFF",
     "checkBoxGradientEndColor": "#9DD4F3FF",
 
-    "switchGradientStartColor": "#BA2A45FF",
+    "switchGradientStartColor": "#FAAF40FF",
     "switchGradientEndColor": "#ECB6BEFF",
     "switchGradientStartColor2": "#FFF",
     "switchGradientEndColor2": "#FFF",
 
     "comboBoxBackgroundColor": "#FFFFFFFF",
     "comboBoxArrowsColor": "#000000FF",
-    "comboBoxDropdownItemHighlightedColor": "#BA2A45FF",
+    "comboBoxDropdownItemHighlightedColor": "#FAAF40FF",
 
-    "modalPageCounterGradientStartColor": "#BA2A45FF",
-    "modalPageCounterGradientEndColor": "#BA2A45FF",
+    "modalPageCounterGradientStartColor": "#FAAF40FF",
+    "modalPageCounterGradientEndColor": "#FAAF40FF",
 
     "notifPopupBackgroundColor": "#F9F5F5FF",
     "notifPopupTextColor": "#110202FF",
-    "notifPopupTimerColor": "#BA2A45FF",
+    "notifPopupTimerColor": "#FAAF40FF",
     "notifPopupTimerBackgroundColor": "#93A3B1FF",
-    "notifPopupIconStartColor": "#F14263FF",
-    "notifPopupIconEndColor": "#F48EA1FF",
+    "notifPopupIconStartColor": "#FAAF40FF",
+    "notifPopupIconEndColor": "#FFC56FFF",
 
     "scrollBarIndicatorColor": "#DBE0E4",
     "scrollBarBackgroundColor": "#93A3B11F",
 
-    "tabSelectedColor": "#FEC1CC",
+    "tabSelectedColor": "#FAAF40FF",
 
     "textDisabledColor": "#444444",
     "textSelectionColor": "#14bca6",
@@ -85,10 +85,10 @@
 
     "floatingBackgroundColor": "#F9F5F5FF",
 
-    "rangeSliderBackgroundColor": "#EE5C78FF",
+    "rangeSliderBackgroundColor": "#FAAF40FF",
     "rangeSliderDistanceColor": "#F9F5F5FF",
-    "rangeSliderIndicatorBackgroundStartColor": "#EE5C78FF",
-    "rangeSliderIndicatorBackgroundEndColor": "#EE5C78FF",
+    "rangeSliderIndicatorBackgroundStartColor": "#FAAF40FF",
+    "rangeSliderIndicatorBackgroundEndColor": "#FFC56FFF",
 
     "loginWalletIconColorStart": "#5A68E6FF",
     "loginWalletIconColorEnd": "#4986EAAD",
@@ -97,13 +97,13 @@
     "sidebarVersionTextColor": "#110202FF",
     "sidebarCursorStartColor": "#F6D7DBFF",
     "sidebarCursorEndColor": "#FFFFFFFF",
-    "sidebarLineTextHovered": "#7C1624",
-    "sidebarLineTextSelected": "#7C1624",
+    "sidebarLineTextHovered": "#F7931DAF",
+    "sidebarLineTextSelected": "#F7931DAF",
 
     "tradeBuyModeSelectorBackgroundColorStart": "#00C3AAFF",
     "tradeBuyModeSelectorBackgroundColorEnd": "#1FE7C3FF",
-    "tradeSellModeSelectorBackgroundColorStart": "#F14263FF",
-    "tradeSellModeSelectorBackgroundColorEnd": "#F48EA1FF",
+    "tradeSellModeSelectorBackgroundColorStart": "#FAAF40FF",
+    "tradeSellModeSelectorBackgroundColorEnd": "#FFC56FFF",
     "tradeMarketModeSelectorNotSelectedBackgroundColor": "#89B6FF21",
 
     "inputModifierBackgroundColor": "#89B6FF21",
@@ -125,10 +125,10 @@
     "warningColor": "#E52167FF",
     "swapIconColor": "#005FBEFF",
 
-    "senderColorStart": "#F85757FF",
+    "senderColorStart": "#FAAF40FF",
     "receiverColorStart": "#845FEFFF",
 
-    "arrowUpColor": "#F85757FF",
+    "arrowUpColor": "#FAAF40FF",
     "arrowDownColor": "#845FEFFF",
 
     "lineSeparatorColor": "#65656542"
