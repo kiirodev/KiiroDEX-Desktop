@@ -6,9 +6,6 @@ on:
   push:
     branches:
       - dev
-      - master
-  schedule:
-    - cron: '0 0 * * 1'
 
 env:
   DEX_API: "mm2"
