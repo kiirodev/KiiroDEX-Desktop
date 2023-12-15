@@ -8,13 +8,13 @@
     "busyIndicatorColor": "#F7931DAF",
 
     "buttonColorDisabled": "#D8E3F8",
-    "buttonColorEnabled": "#F0F6F9",
-    "buttonColorHovered": "#F0F6F9AA",
-    "buttonColorPressed": "#F0F6F97A",
+    "buttonColorEnabled": "#FAAF40FF",
+    "buttonColorHovered": "#FFC56FFF",
+    "buttonColorPressed": "#FAAF40FF",
     "buttonTextDisabledColor": "#444444",
     "buttonTextEnabledColor": "#110202",
-    "buttonTextHoveredColor": "#878787FF",
-    "buttonTextPressedColor": "#8FA0B1B2",
+    "buttonTextHoveredColor": "#3E34349A",
+    "buttonTextPressedColor": "#93A3B11F",
 
     "buttonSecondaryColorDisabled": "#D8E3F8FF",
     "buttonSecondaryColorEnabled":  "#F0F6FFFF",
@@ -121,9 +121,9 @@
 
     "addressBookTagColors": ["#003bbbFF", "#006133FF", "#612600FF", "#430061FF", "#004d61FF"],
 
-    "okColor": "#00C058FF",
-    "warningColor": "#E52167FF",
-    "swapIconColor": "#005FBEFF",
+    "okColor":"#63faaaFF",
+    "warningColor":"#FF7F7FFF",
+    "swapIconColor":"#FAAF40FF",
 
     "senderColorStart": "#FAAF40FF",
     "receiverColorStart": "#845FEFFF",

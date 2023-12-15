@@ -90,7 +90,6 @@
   "possible_currencies": [
     "USD",
     "BTC",
-    "KMD",
-    "LTC"
+    "KMD"
   ]
 }

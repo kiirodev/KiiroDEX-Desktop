@@ -12,8 +12,8 @@ env:
   DEX_RPCPORT: 7783
   DEX_RPC: "http://127.0.0.1:7783"
   DEX_PROJECT_NAME: "kiirodex"
-  DEX_DISPLAY_NAME: "Kiiro Dex"
-  DEX_COMPANY: "Kiiro"
+  DEX_DISPLAY_NAME: "KiiroDex"
+  DEX_COMPANY: "Kiirocoin"
   DEX_VERSION: "0.6.1"
   DEX_WEBSITE: "https://kiirocoin.org/"
   VCPKG_DEFAULT_BINARY_CACHE: ${{ github.workspace }}/b/vcpkg_cache

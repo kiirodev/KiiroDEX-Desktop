@@ -1,25 +1,25 @@
 {
-    "accentColor":"#212020",
+    "accentColor":"#161515FF",
     "foregroundColor":"#ffffff",
     "foregroundColor2":"#7A8EA1FF",
     "foregroundColor3":"#ABC0D3FF",
     "backgroundColor":"#1F1E1E",
     "secondBackgroundColor":"#24273DFF",
-    "backgroundColorDeep":"#1F1E1E",
-    "floatingBackgroundColor":"#1F1E1E",
-    "innerBackgroundColor":"#1F1E1E",
+    "backgroundColorDeep":"#161515FF",
+    "floatingBackgroundColor":"#161515FF",
+    "innerBackgroundColor":"#161515FF",
 
 
     "busyIndicatorColor":"#F7931DAF",
 
     "buttonColorDisabled":"#3E34349A",
-    "buttonColorEnabled":"#3E3434",
-    "buttonColorHovered":"#3E34346A",
-    "buttonColorPressed":"#3E34342A",
+    "buttonColorEnabled": "#FAAF40FF",
+    "buttonColorHovered": "#FFC56FFF",
+    "buttonColorPressed": "#FAAF40FF",
     "buttonTextDisabledColor":"#444444",
     "buttonTextEnabledColor":"#ffffff",
-    "buttonTextHoveredColor":"#7A8EA1FF",
-    "buttonTextPressedColor":"#ABC0D3FF",
+    "buttonTextHoveredColor":"#878787FF",
+    "buttonTextPressedColor":"#93A3B11F",
 
     "buttonSecondaryColorDisabled":"#28375AFF",
     "buttonSecondaryColorEnabled":" #293254FF",
@@ -63,12 +63,12 @@
     "notifPopupBackgroundColor":"#1F1E1EFF",
     "notifPopupTextColor":"#FFFFFFFF",
     "notifPopupTimerColor":"#FFC56FFF",
-    "notifPopupTimerBackgroundColor":"#93A3B11F",
+    "notifPopupTimerBackgroundColor":"#212020",
     "notifPopupIconStartColor":"#FAAF40FF",
     "notifPopupIconEndColor":"#FFC56FFF",
 
     "scrollBarIndicatorColor":"#DBE0E4",
-    "scrollBarBackgroundColor":"#93A3B11F",
+    "scrollBarBackgroundColor":"#212020",
 
     "tabSelectedColor":"#FAAF40FF",
 
@@ -117,15 +117,15 @@
     "inputLeftIconColor":"          #FFFFFFFF",
     "inputLeftIconBackgroundColor":"#202337FF",
 
-    "listItemOddBackground":"#202337FF",
-    "listItemEvenBackground":"#24273DFF",
-    "listItemHoveredBackground":"#4068B9FF",
+    "listItemOddBackground": "#1b1b1b",
+    "listItemEvenBackground": "#161515",
+    "listItemHoveredBackground": "#5B4704",
 
     "addressBookTagColors":["#003bbbFF", "#006133FF", "#612600FF", "#430061FF", "#004d61FF"],
 
-    "okColor":"#00C058FF",
-    "warningColor":"#E52167FF",
-    "swapIconColor":"#005FBEFF",
+    "okColor":"#63faaaFF",
+    "warningColor":"#FF7F7FFF",
+    "swapIconColor":"#FAAF40FF",
 
     "senderColorStart":"#FAAF40FF",
     "receiverColorStart":"#845FEFFF",
