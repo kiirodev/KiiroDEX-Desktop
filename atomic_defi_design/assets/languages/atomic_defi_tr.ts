@@ -1504,67 +1504,67 @@
         <translation type="unfinished">Bir miktar gir</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="834"/>
+        <location filename="../../Dex/Constants/General.qml" line="818"/>
         <source>Trading Fee</source>
         <translation>Takas Ücreti</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="844"/>
+        <location filename="../../Dex/Constants/General.qml" line="828"/>
         <source>Minimum Trading Amount</source>
         <translation>Minimum Takas Hacmi</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="855"/>
+        <location filename="../../Dex/Constants/General.qml" line="839"/>
         <source>Wallet %1 already exists</source>
         <comment>WALLETNAME</comment>
         <translation>%1 cüzdanı zaten mevcut</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="868"/>
+        <location filename="../../Dex/Constants/General.qml" line="852"/>
         <source>%1 balance is lower than the fees amount: %2 %3</source>
         <translation>%1 bakiye ücret tutarının altında: %2 %3</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="870"/>
+        <location filename="../../Dex/Constants/General.qml" line="854"/>
         <source>Tradable (after fees) %1 balance is lower than minimum trade amount</source>
         <translation>Takas edilebilir (ücretlerden sonra)%1 bakiyesi minimum işlem ücretinden düşük</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="872"/>
+        <location filename="../../Dex/Constants/General.qml" line="856"/>
         <source>Please fill the price field</source>
         <translation>Lütfen fiyat alanını doldurun</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="874"/>
+        <location filename="../../Dex/Constants/General.qml" line="858"/>
         <source>Please fill the volume field</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="864"/>
-        <location filename="../../Dex/Constants/General.qml" line="866"/>
+        <location filename="../../Dex/Constants/General.qml" line="848"/>
+        <location filename="../../Dex/Constants/General.qml" line="850"/>
         <source>Please wait for %1 to fully activate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="876"/>
-        <location filename="../../Dex/Constants/General.qml" line="878"/>
+        <location filename="../../Dex/Constants/General.qml" line="860"/>
+        <location filename="../../Dex/Constants/General.qml" line="862"/>
         <source>%1 volume is lower than minimum trade amount</source>
         <translation>%1 hacmi, minimum işlem ücretinden düşük</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="880"/>
-        <location filename="../../Dex/Constants/General.qml" line="884"/>
+        <location filename="../../Dex/Constants/General.qml" line="864"/>
+        <location filename="../../Dex/Constants/General.qml" line="868"/>
         <source>%1 needs to be enabled in order to use %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="882"/>
-        <location filename="../../Dex/Constants/General.qml" line="886"/>
+        <location filename="../../Dex/Constants/General.qml" line="866"/>
+        <location filename="../../Dex/Constants/General.qml" line="870"/>
         <source>%1 balance needs to be funded, a non-zero balance is required to pay the gas of %2 transactions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="888"/>
+        <location filename="../../Dex/Constants/General.qml" line="872"/>
         <source>Unknown Error</source>
         <translation>Bilinmeyen Hata</translation>
     </message>
@@ -4381,11 +4381,6 @@ There is a toggle in settings where you can turn on/off the display of these tra
         <location filename="../../Dex/Exchange/Trade/OrderBook/Vertical.qml" line="14"/>
         <source>Order Book</source>
         <translation type="unfinished">Emir Defteri</translation>
-    </message>
-    <message>
-        <location filename="../../Dex/Exchange/Trade/OrderBook/Vertical.qml" line="64"/>
-        <source> traded 24hrs: %1</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

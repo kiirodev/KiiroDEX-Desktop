@@ -1510,67 +1510,67 @@
         <translation type="unfinished">Ingrese una cantidad</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="834"/>
+        <location filename="../../Dex/Constants/General.qml" line="818"/>
         <source>Trading Fee</source>
         <translation>Tarifa de Intercambio</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="844"/>
+        <location filename="../../Dex/Constants/General.qml" line="828"/>
         <source>Minimum Trading Amount</source>
         <translation>Cantidad Mínima de Intercambio</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="855"/>
+        <location filename="../../Dex/Constants/General.qml" line="839"/>
         <source>Wallet %1 already exists</source>
         <comment>WALLETNAME</comment>
         <translation>Monedero %1 ya existe</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="868"/>
+        <location filename="../../Dex/Constants/General.qml" line="852"/>
         <source>%1 balance is lower than the fees amount: %2 %3</source>
         <translation>El saldo de %1 es inferior al monto de las tarifas: %2 %3</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="870"/>
+        <location filename="../../Dex/Constants/General.qml" line="854"/>
         <source>Tradable (after fees) %1 balance is lower than minimum trade amount</source>
         <translation>El saldo de %1 (después de las tarifas) es inferior al monto mínimo de intercambio</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="872"/>
+        <location filename="../../Dex/Constants/General.qml" line="856"/>
         <source>Please fill the price field</source>
         <translation>Por favor complete el campo de precio</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="874"/>
+        <location filename="../../Dex/Constants/General.qml" line="858"/>
         <source>Please fill the volume field</source>
         <translation>Complete el campo de volumen</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="864"/>
-        <location filename="../../Dex/Constants/General.qml" line="866"/>
+        <location filename="../../Dex/Constants/General.qml" line="848"/>
+        <location filename="../../Dex/Constants/General.qml" line="850"/>
         <source>Please wait for %1 to fully activate</source>
         <translation>Espere a que %1 se active por completo</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="876"/>
-        <location filename="../../Dex/Constants/General.qml" line="878"/>
+        <location filename="../../Dex/Constants/General.qml" line="860"/>
+        <location filename="../../Dex/Constants/General.qml" line="862"/>
         <source>%1 volume is lower than minimum trade amount</source>
         <translation>El volumen de %1 es inferior al monto mínimo de intercambio</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="880"/>
-        <location filename="../../Dex/Constants/General.qml" line="884"/>
+        <location filename="../../Dex/Constants/General.qml" line="864"/>
+        <location filename="../../Dex/Constants/General.qml" line="868"/>
         <source>%1 needs to be enabled in order to use %2</source>
         <translation>%1 debe habilitarse para usar %2</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="882"/>
-        <location filename="../../Dex/Constants/General.qml" line="886"/>
+        <location filename="../../Dex/Constants/General.qml" line="866"/>
+        <location filename="../../Dex/Constants/General.qml" line="870"/>
         <source>%1 balance needs to be funded, a non-zero balance is required to pay the gas of %2 transactions</source>
         <translation>se debe rellenar el saldo de %1, se requiere un saldo distinto de cero para pagar el gas de %2 transacciones</translation>
     </message>
     <message>
-        <location filename="../../Dex/Constants/General.qml" line="888"/>
+        <location filename="../../Dex/Constants/General.qml" line="872"/>
         <source>Unknown Error</source>
         <translation>Error Desconocido</translation>
     </message>
@@ -4407,11 +4407,6 @@ There is a toggle in settings where you can turn on/off the display of these tra
         <location filename="../../Dex/Exchange/Trade/OrderBook/Vertical.qml" line="14"/>
         <source>Order Book</source>
         <translation>Libro de Ordenes</translation>
-    </message>
-    <message>
-        <location filename="../../Dex/Exchange/Trade/OrderBook/Vertical.qml" line="64"/>
-        <source> traded 24hrs: %1</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
